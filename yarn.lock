@@ -1009,10 +1009,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@candyswap/candy-swap-core@^0.1.0":
+"@candyswap-libs/candy-swap-core@^0.1.0":
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@candyswap/candy-swap-core/-/candy-swap-core-0.1.0.tgz#7bcc5ebd4e29806fb5383389ca93027a9f584446"
-  integrity sha512-Yk7rfgz9xOi50ARfVr4KCZZas0KFeKXVDeEhCQXNOA0Uza9CBZ/9cW7wgqCpvPZ/hfPK+1nb4vQkrobi4Gfdlg==
+  resolved "https://registry.yarnpkg.com/@candyswap-libs/candy-swap-core/-/candy-swap-core-0.1.0.tgz#fb1d5d230524079dff176679ef5857b19150c9de"
+  integrity sha512-Dte9t8CLv8CxZoJVmKCG6/vE3qVWZyGsyBTl2kgxCLGid0PfUE06J7/jOtfcQBuWBcfxINHuEImzWtMXeoLKmg==
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"

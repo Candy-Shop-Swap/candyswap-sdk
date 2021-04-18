@@ -2,7 +2,7 @@
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/Candy-Shop-Swap/candyswap-sdk/workflows/CI/badge.svg)](https://github.com/Candy-Shop-Swap/candyswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@candyswap/sdk/latest.svg)](https://www.npmjs.com/package/@candyswap/sdk/v/latest)
+[![npm version](https://img.shields.io/npm/v/@candyswap-libs/sdk/latest.svg)](https://www.npmjs.com/package/@candyswap-libs/sdk/v/latest)
 
 ## Running tests
 

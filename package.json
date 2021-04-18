@@ -1,5 +1,5 @@
 {
-  "name": "@candyswap/sdk",
+  "name": "@candyswap-libs/sdk",
   "license": "MIT",
   "version": "1.0.2",
   "description": "🛠 An SDK for building applications on top of candyswap.",
@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@candyswap/candy-swap-core": "^0.1.0",
+    "@candyswap-libs/candy-swap-core": "^0.1.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
